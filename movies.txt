@@ -1,0 +1,15 @@
+The Social Network,David Fincher,Drama,200,7.7
+Whiplash,Damien Chazelle,Drama,150,8.5
+La La Land,Damien Chazelle,Romance,300,8.0
+Django Unchained,Quentin Tarantino,Western,350,8.4
+The Prestige,Christopher Nolan,Mystery,250,8.5
+Memento,Christopher Nolan,Thriller,180,8.4
+Avatar,James Cameron,SciFi,450,7.8
+The Revenant,Alejandro G. Inarritu,Adventure,320,8.0
+Mad Max: Fury Road,George Miller,Action,270,8.1
+Se7en,David Fincher,Thriller,220,8.6
+Shutter Island,Martin Scorsese,Thriller,210,8.2
+The Wolf of Wall Street,Martin Scorsese,Biography,300,8.2
+Joker,Todd Phillips,Drama,250,8.4
+Toy Story 3,Lee Unkrich,Animation,200,8.3
+Finding Nemo,Andrew Stanton,Animation,150,8.1
